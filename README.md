@@ -35,7 +35,7 @@ The calculator emphasizes the use of "awesome inputs" that make it stand out fro
 
 To run the Java Calculator project on your local machine, follow these steps:
 
-1. Clone the repository from the [GitHub link](https://github.com/your-username/java-calculator).
+1. Clone the repository from the [GitHub link](https://github.com/harsha14879/java-calculator).
 2. Open the project in your favorite Java IDE (Eclipse, IntelliJ, etc.).
 3. Build and run the project.
 4. Start performing your calculations with the Java Calculator!
